@@ -51,6 +51,12 @@ A brief description of your project.
 
 #### 🎯 Project Overview
 Provide an overview of what this project involves.
+Java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
 
 #### ⚙️ Technologies Used
 - **Java**: For developing the application.
