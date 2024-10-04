@@ -1,143 +1,29 @@
+<h1 align="center">Hi 👋, I'm Rashi Panchal</h1>
+<h3 align="center">A passionate backend developer</h3>
 
-<div id="header" align="center">
-  
-  <img src="https://img.freepik.com/fotos-gratis/renderizacao-3d-de-desenho-animado-como-mulher-trabalhando-no-computador_23-2150797648.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1721692800&semt=ais_user" width="500"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashi1m&label=Profile%20views&color=0e75b6&style=flat" alt="rashi1m" /> </p>
 
-  <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=40&center=false&lines=Hey!+I'm+Rashi....;I'm+a+Java+Developer....;" alt="I'm Rashi Panchal - I'm a Java Developer"/>
-</div>
- 
-  <h1 align="center">
-    Hey There 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashi1m" alt="rashi1m" /></a> </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/>
-</div>
+- 🔭 I’m currently working on **Conexus Shopping Cart**
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/rashi-panchal-b90b27267/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/yourtwitterhandle">
-    <img src="https://img.shields.io/twitter/follow/yourtwitterhandle?label=Follow&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+- 🌱 I’m currently learning **Core java,Hibernate Framework,Spring,Spring MVC,Spring Boot,Servlet And JSP,SQL**
 
-<div id="profile-views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=tushar-ops23&style=flat-square&color=green" alt="Profile views"/>
-</div>
+- 👯 I’m looking to collaborate on **E- Commerce site**
 
----
+- 💬 Ask me about **Java**
 
-[![GitHub followers](https://img.shields.io/github/followers/rashi1m?label=Follow&style=social)](https://github.com/rashi1m)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]("https://www.linkedin.com/in/rashi-panchal-b90b27267/)
-[![Twitter](https://img.shields.io/twitter/follow/yourtwitterhandle?label=Follow&style=social)](https://twitter.com/yourtwitterhandle)
+- 📫 How to reach me **rashipanchal2003@gmail.com**
 
-Welcome to my GitHub profile! I'm a Java Developer with experience in building and managing applications. Below you can find more about my projects, skills, and contributions.
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rashi panchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashi panchal" height="30" width="40" /></a>
+</p>
 
-## 🚀 Projects
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="400" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashi1m&show_icons=true&locale=en&layout=compact" alt="rashi1m" /></p>
 
-### [**Project Name**](#)
-A brief description of your project.
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white)
-
-#### 🎯 Project Overview
-Provide an overview of what this project involves.
-Java
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
-    }
-}
-
-#### ⚙️ Technologies Used
-- **Java**: For developing the application.
-- **SQL**: For managing databases.
-
-#### 🌟 Key Features
-- **Feature 1**: Description.
-- **Feature 2**: Description.
-
-<div align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="400" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tushar-ops23&show_icons=true&theme=radical" alt="Rashi Panchal's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar-ops23&theme=radical" alt="Rashi Panchal's GitHub Streak"/>
-</div>
-
----
-
-## 🛠 Skills and Technologies
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" style="vertical-align:top; background-color:#f9f9f9; border: 1px solid #e1e4e8; padding: 10px;">
-        <h3 align="center">Programming Languages</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-          <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
-        </p>
-        <h3 align="center">Tools</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Ms%20Word-2C2255?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Ms Word"/>
-          <img src="https://img.shields.io/badge/Ms%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Ms Excel"/>
-        </p>
-      </td>
-      <td width="50%" style="vertical-align:top; background-color:#f9f9f9; border: 1px solid #e1e4e8; padding: 10px;">
-        <h3 align="center">Certifications</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-          <img src="https://img.shields.io/badge/NCC-004080?style=for-the-badge&logo=ncc&logoColor=white" alt="NCC"/>
-          <img src="https://img.shields.io/badge/NIELIT-0033A0?style=for-the-badge&logo=nielit&logoColor=white" alt="NIELIT"/>
-        </p>
-        <h3 align="center">Other Skills</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Communication-0078D4?style=for-the-badge&logo=communication&logoColor=white" alt="Communication"/>
-          <img src="https://img.shields.io/badge/Interpersonal%20Skills-0078D4?style=for-the-badge&logo=interpersonal-skills&logoColor=white" alt="Interpersonal Skills"/>
-          <img src="https://img.shields.io/badge/Customer%20Service-0078D4?style=for-the-badge&logo=customer-service&logoColor=white" alt="Customer Service"/>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🌟 Highlights
-
-- 🏆 Contributor to open-source projects
-- 💬 Ask me about Java development and cloud computing
-- 📫 Reach me at [![Email](https://img.shields.io/badge/Email-rashipanchal2003@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:rashipanchal2003@gmail.com)
-
----
-
-## 🤝 Connect with Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/rashi-panchal-b90b27267/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/rashi1m">
-    <img src="https://img.shields.io/github/followers/rashi1m?label=Follow&style=social" alt="GitHub Followers"/>
-  </a>
-</div>
-
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashi1m&show_icons=true&locale=en" alt="rashi1m" /></p>
