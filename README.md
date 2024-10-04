@@ -24,10 +24,11 @@
 - 📫 How to reach me **rashipanchal2003@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3><div id="badges" align="center">
+<h3 align="left">Connect with me:</h3>
   <a href="https://www.linkedin.com/in/rashi-panchal-b90b27267/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+
 <p align="left">
 <a href="https://linkedin.com/in/rashi panchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashi panchal" height="30" width="40" /></a>
 </p>
