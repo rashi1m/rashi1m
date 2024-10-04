@@ -14,7 +14,7 @@
   <img src="https://s3.amazonaws.com/higherlogicdownload/IMWUC/UploadedImages/ZLMaTrPpQo2sjwSr3qwK_temp.gif
 " width="800" height="400"/>
 </div>
-
+![Alt Text](https://s3.amazonaws.com/higherlogicdownload/IMWUC/UploadedImages/ZLMaTrPpQo2sjwSr3qwK_temp.gif)
 
  
 
