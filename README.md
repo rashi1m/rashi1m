@@ -23,11 +23,21 @@
 
 - 📫 How to reach me **rashipanchal2003@gmail.com**
 
+  <h1 align="center">
+    Hey There 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
   <a href="https://www.linkedin.com/in/rashi-panchal-b90b27267/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+
+  <div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/>
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
