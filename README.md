@@ -1,10 +1,11 @@
 
 <div id="header" align="center">
   <img src="https://img.freepik.com/fotos-gratis/renderizacao-3d-de-desenho-animado-como-mulher-trabalhando-no-computador_23-2150797648.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1721692800&semt=ais_user" width="700"/>
-  <h1 align="center">
-    Hey There 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+
+  <div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=40&center=false&lines=Hey!+I'm+Rashi....;I'm+a+Java+Developer....;" alt="I'm Rashi Panchal - I'm a Java Developer"/>
+</div>
+ 
 </div>
 
 <div align="center">
