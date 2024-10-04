@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  <img src="https://img.freepik.com/fotos-gratis/renderizacao-3d-de-desenho-animado-como-mulher-trabalhando-no-computador_23-2150797648.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1721692800&semt=ais_user" width="700" height="300"/>
+  <img src="https://img.freepik.com/fotos-gratis/renderizacao-3d-de-desenho-animado-como-mulher-trabalhando-no-computador_23-2150797648.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1721692800&semt=ais_user" width="900" height="200"/>
   
 
   <div align="left">
@@ -17,8 +17,6 @@
 - 🔭 I’m currently working on **Conexus Shopping Cart**
 
 - 🌱 I’m currently learning **Core java,Hibernate Framework,Spring,Spring MVC,Spring Boot,Servlet And JSP,SQL**
-
-- 👯 I’m looking to collaborate on **E- Commerce site**
 
 - 💬 Ask me about **Java**
 
