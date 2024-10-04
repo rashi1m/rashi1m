@@ -1,28 +1,39 @@
 
 <div id="header" align="center">
+  
   <img src="https://img.freepik.com/fotos-gratis/renderizacao-3d-de-desenho-animado-como-mulher-trabalhando-no-computador_23-2150797648.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1721692800&semt=ais_user" width="500"/>
 
   <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=40&center=false&lines=Hey!+I'm+Rashi....;I'm+a+Java+Developer....;" alt="I'm Rashi Panchal - I'm a Java Developer"/>
 </div>
  
+  <h1 align="center">
+    Hey There 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
-
----
 
 <div align="center">
-  <img src="https://s3.amazonaws.com/higherlogicdownload/IMWUC/UploadedImages/ZLMaTrPpQo2sjwSr3qwK_temp.gif
-" width="800" height="400"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/>
 </div>
-![Alt Text](https://s3.amazonaws.com/higherlogicdownload/IMWUC/UploadedImages/ZLMaTrPpQo2sjwSr3qwK_temp.gif)
 
- 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/rashi-panchal-b90b27267/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/yourtwitterhandle">
+    <img src="https://img.shields.io/twitter/follow/yourtwitterhandle?label=Follow&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
+<div id="profile-views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=tushar-ops23&style=flat-square&color=green" alt="Profile views"/>
+</div>
 
 ---
 
-[![GitHub followers](https://img.shields.io/github/followers/Tushar-ops23?label=Follow&style=social)](https://github.com/Tushar-ops23)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tushar-panchal23/)
+[![GitHub followers](https://img.shields.io/github/followers/rashi1m?label=Follow&style=social)](https://github.com/rashi1m)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]("https://www.linkedin.com/in/rashi-panchal-b90b27267/)
 [![Twitter](https://img.shields.io/twitter/follow/yourtwitterhandle?label=Follow&style=social)](https://twitter.com/yourtwitterhandle)
 
 Welcome to my GitHub profile! I'm a Java Developer with experience in building and managing applications. Below you can find more about my projects, skills, and contributions.
@@ -121,11 +132,11 @@ public class HelloWorld {
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tushar-panchal23/">
+  <a href="https://www.linkedin.com/in/rashi-panchal-b90b27267/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/Tushar-ops23">
-    <img src="https://img.shields.io/github/followers/Tushar-ops23?label=Follow&style=social" alt="GitHub Followers"/>
+  <a href="https://github.com/rashi1m">
+    <img src="https://img.shields.io/github/followers/rashi1m?label=Follow&style=social" alt="GitHub Followers"/>
   </a>
 </div>
 
