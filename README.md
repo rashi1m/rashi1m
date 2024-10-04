@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/89764162/216025420-8abe7bc6-0085-46a9-b5e8-27779e5f7a00.gif" width="500"/>
+  <img src="https://img.freepik.com/fotos-gratis/renderizacao-3d-de-desenho-animado-como-mulher-trabalhando-no-computador_23-2150797648.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1721692800&semt=ais_user" width="700"/>
   <h1 align="center">
     Hey There 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
