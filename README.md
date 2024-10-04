@@ -15,22 +15,9 @@
 " width="800" height="400"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/tushar-panchal23/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/yourtwitterhandle">
-    <img src="https://img.shields.io/twitter/follow/yourtwitterhandle?label=Follow&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 
-<div id="profile-views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=tushar-ops23&style=flat-square&color=green" alt="Profile views"/>
-</div>
+ 
 
-<div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=40&center=false&lines=Hey!+I'm+Rashi....;I'm+a+Java+Developer....;" alt="I'm Rashi Panchal - I'm a Java Developer"/>
-</div>
 
 ---
 
