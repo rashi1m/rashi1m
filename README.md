@@ -47,6 +47,10 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/>
 </div>
 
+
+
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashi1m&show_icons=true&locale=en&layout=compact" alt="rashi1m" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashi1m&show_icons=true&locale=en" alt="rashi1m" /></p>
+</div>
