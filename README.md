@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://img.freepik.com/fotos-gratis/renderizacao-3d-de-desenho-animado-como-mulher-trabalhando-no-computador_23-2150797648.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1721692800&semt=ais_user" width="700"/>
+  <img src="https://img.freepik.com/fotos-gratis/renderizacao-3d-de-desenho-animado-como-mulher-trabalhando-no-computador_23-2150797648.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1721692800&semt=ais_user" width="500"/>
 
   <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=40&center=false&lines=Hey!+I'm+Rashi....;I'm+a+Java+Developer....;" alt="I'm Rashi Panchal - I'm a Java Developer"/>
@@ -11,8 +11,8 @@
 ---
 
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/59fe009b-f746-49e5-ae21-4b113c383193)
-" width="600" height="300"/>
+  <img src="https://s3.amazonaws.com/higherlogicdownload/IMWUC/UploadedImages/ZLMaTrPpQo2sjwSr3qwK_temp.gif
+" width="800" height="400"/>
 </div>
 
 <div id="badges" align="center">
