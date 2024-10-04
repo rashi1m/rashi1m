@@ -1,3 +1,11 @@
+<div id="header" align="center">
+  
+  <img src="https://img.freepik.com/fotos-gratis/renderizacao-3d-de-desenho-animado-como-mulher-trabalhando-no-computador_23-2150797648.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1721692800&semt=ais_user" width="500"/>
+
+  <div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=40&center=false&lines=Hey!+I'm+Rashi....;I'm+a+Java+Developer....;" alt="I'm Rashi Panchal - I'm a Java Developer"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Rashi Panchal</h1>
 <h3 align="center">A passionate backend developer</h3>
 
@@ -16,7 +24,10 @@
 - 📫 How to reach me **rashipanchal2003@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3><div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/rashi-panchal-b90b27267/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 <p align="left">
 <a href="https://linkedin.com/in/rashi panchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashi panchal" height="30" width="40" /></a>
 </p>
