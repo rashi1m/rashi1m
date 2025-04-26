@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://postimg.cc/DmByBFj4"width="900" height="350"/>
+  <img src="https://drive.google.com/file/d/1yUvCg_qvznH8xvtNLhm0TLbkEGvWDenR/view?usp=drive_link"width="900" height="350"/>
 
   <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=40&center=false&lines=Hey!+I'm+Rashi....;I'm+a+Java+Developer....;" alt="Title"/>
