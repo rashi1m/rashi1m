@@ -75,5 +75,4 @@ Java, Backend Development, or any tech-related stuff!
 
 </div>
     
-  \
-}
+  
