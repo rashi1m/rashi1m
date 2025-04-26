@@ -46,37 +46,6 @@ Java, Backend Development, or any tech-related stuff!
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate"/>
 </div>
 
----
-
-## 💻 Sample Code Snippet
-Here's a functional Java code snippet (click "Run" to see it work):
-
-```java
-// Simple Java Calculator
-public class Calculator {
-    public static void main(String[] args) {
-        int a = 10;
-        int b = 5;
-        
-        System.out.println("Addition: " + add(a, b));
-        System.out.println("Subtraction: " + subtract(a, b));
-        System.out.println("Multiplication: " + multiply(a, b));
-        System.out.println("Division: " + divide(a, b));
-    }
-    
-    public static int add(int x, int y) {
-        return x + y;
-    }
-    
-    public static int subtract(int x, int y) {
-        return x - y;
-    }
-    
-    public static int multiply(int x, int y) {
-        return x * y;
-    }
-
-
  <div align="center">
 <h3 align="left">Connect with me:</h3>
   <a href="https://www.linkedin.com/in/rashi-panchal-b90b27267/">
