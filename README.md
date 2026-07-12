@@ -104,8 +104,6 @@
 
 # 📊 GitHub Stats
 
-# 📊 GitHub Stats
-
 <div align="center">
 
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rashi1m&show_icons=true&theme=tokyonight"/>
