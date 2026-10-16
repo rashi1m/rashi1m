@@ -129,7 +129,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/rashi-panchal-b90b27267/">
+<a href="https://www.linkedin.com/in/rashi-panchal-java/">
 
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
